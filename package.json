@@ -1,0 +1,24 @@
+{
+  "name": "webpack4.x",
+  "version": "1.0.0",
+  "description": "npm i webpack -g\r     npm i webpack -save-dev//开发环境\r     npm i webpack -save//生产环境\r     卸载用un代替i\r 用指令打包",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "webpack --config pln.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penglinan/webpack4.x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penglinan/webpack4.x/issues"
+  },
+  "homepage": "https://github.com/penglinan/webpack4.x#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^3.1.0",
+    "webpack": "^4.4.1"
+  }
+}
